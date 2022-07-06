@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    padding: 0 100px;
+    width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;  
+}
+.firstcontainer{
+    width: 300px;
+}
+.secondContainer{
+    display: flex;
+}
+.line{
+    width: 2px;
+    background-color: black;
+}
